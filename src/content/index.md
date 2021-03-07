@@ -1,19 +1,26 @@
 ---
 title: API Reference
-
-language_tabs: # must be one of https://git.io/vQNgJ
-  - bash 
+language_tabs:
+  - bash
   - ruby
   - python
   - javascript
-
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/sarasate/gate'>Documentation Powered by Gate</a>
-
+  - '<a href=''#''>Sign Up for a Developer Key</a>'
+  - '<a href=''https://github.com/sarasate/gate''>Documentation Powered by Gate</a>'
 includes:
   - errors
-
+  - '0': l
+    '1': o
+    '2': r
+    '3': e
+    '4': m
+    '5': '-'
+    '6': i
+    '7': p
+    '8': s
+    '9': u
+    '10': m
 search: true
 ---
 
