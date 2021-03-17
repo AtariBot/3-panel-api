@@ -21,7 +21,7 @@ includes:
     '8': s
     '9': u
     '10': m
-search: true
+search: false
 ---
 # Yo yo peeps
 
